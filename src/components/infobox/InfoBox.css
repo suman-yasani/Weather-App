@@ -1,0 +1,19 @@
+.InfoBox {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #1A2B63;
+    color: white;
+    opacity: 0.8;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.InfoTitle {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.InfoData {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
